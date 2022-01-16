@@ -1,0 +1,21 @@
+New York Yellow Taxi Data
+
+For this coding challenge we are going to use the New York Taxi data for the month of December, 2020. 
+We want you to analyze the data with python and answer some of our questions below. Feel free to use Pandas or Pyspark 
+or any other libraries of your choice.
+
+You can download the data from the link https://nyc-tlc.s3.amazonaws.com/trip+data/yellow_tripdata_2020-12.csv
+
+Task 1
+1. Identify and extract the data of trips from Manhattan to John F. Kennedy International Airport to a parquet file.
+2. Can you indicate how many trips meet this criterion, what the average price is, and what other interesting features these trips have?
+
+Task 2
+1. How many taxi rides originated from Brooklyn Heights and ended in the same taxi zone as the “Empire State Building”?
+2. What was the average duration of the trip?
+3. Minimum and maximum trip amount charged to the customer?
+4. Average surcharge paid by the hour.
+5. Best hour of the data to take this trip between 9AM and 6PM?
+
+Bonus
+Feel free to make any other statistics of your own
